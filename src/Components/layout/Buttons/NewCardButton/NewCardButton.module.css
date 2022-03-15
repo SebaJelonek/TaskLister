@@ -1,0 +1,13 @@
+.btn {
+  font-size: 1.25rem;
+  padding: 0.25em 1em;
+  margin: 1em 0;
+  background-color: burlywood;
+  border: blue 2px solid;
+  border-radius: 5px;
+  box-shadow: 3px 2px 10px black;
+  transition: box-shadow 50ms linear;
+}
+.btn:active {
+  box-shadow: 0 0 5px black;
+}

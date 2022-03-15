@@ -1,0 +1,14 @@
+.container {
+  max-width: 600px;
+  width: 85%;
+  margin: 0 auto;
+  padding: 0.5em 0;
+  border-radius: 5px;
+  border: tomato solid 1px;
+  background-color: aquamarine;
+  box-shadow: 2px 3px 8px #333;
+}
+.list-title {
+  padding-bottom: 0.25em;
+  border-bottom: tomato solid 2px;
+}

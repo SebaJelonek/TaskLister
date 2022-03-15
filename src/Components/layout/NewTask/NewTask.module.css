@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  width: 95%;
+  margin: 0 auto;
+}
+.task-input {
+  background-color: transparent;
+  border: transparent;
+  border-bottom: red 2px solid;
+  font-size: 1.25rem;
+}
+.task-input:focus-visible {
+  outline: none;
+}
